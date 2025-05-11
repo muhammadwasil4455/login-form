@@ -126,3 +126,13 @@ body{
     text-decoration: underline;
     color: blue;
 }
+
+
+@media (max-width: 768px) {
+  body {
+    background: url(images/black-background-with-goku-dragon-ball-z.jpg) no-repeat;
+    background-position: center;
+    
+  }
+}
+
